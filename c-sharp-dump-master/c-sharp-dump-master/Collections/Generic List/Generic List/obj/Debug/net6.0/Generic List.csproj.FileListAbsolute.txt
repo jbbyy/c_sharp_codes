@@ -1,0 +1,15 @@
+D:\Coding practice\Generic List\Generic List\bin\Debug\net6.0\Generic List.exe
+D:\Coding practice\Generic List\Generic List\bin\Debug\net6.0\Generic List.deps.json
+D:\Coding practice\Generic List\Generic List\bin\Debug\net6.0\Generic List.runtimeconfig.json
+D:\Coding practice\Generic List\Generic List\bin\Debug\net6.0\Generic List.dll
+D:\Coding practice\Generic List\Generic List\bin\Debug\net6.0\Generic List.pdb
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.csproj.AssemblyReference.cache
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.AssemblyInfoInputs.cache
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.AssemblyInfo.cs
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.csproj.CoreCompileInputs.cache
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.dll
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\refint\Generic List.dll
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.pdb
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\Generic List.genruntimeconfig.cache
+D:\Coding practice\Generic List\Generic List\obj\Debug\net6.0\ref\Generic List.dll

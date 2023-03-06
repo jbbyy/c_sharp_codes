@@ -1,0 +1,15 @@
+D:\Coding practice\New Features\New Features\bin\Debug\net6.0\New Features.exe
+D:\Coding practice\New Features\New Features\bin\Debug\net6.0\New Features.deps.json
+D:\Coding practice\New Features\New Features\bin\Debug\net6.0\New Features.runtimeconfig.json
+D:\Coding practice\New Features\New Features\bin\Debug\net6.0\New Features.dll
+D:\Coding practice\New Features\New Features\bin\Debug\net6.0\New Features.pdb
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.csproj.AssemblyReference.cache
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.AssemblyInfoInputs.cache
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.AssemblyInfo.cs
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.csproj.CoreCompileInputs.cache
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.dll
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\refint\New Features.dll
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.pdb
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\New Features.genruntimeconfig.cache
+D:\Coding practice\New Features\New Features\obj\Debug\net6.0\ref\New Features.dll

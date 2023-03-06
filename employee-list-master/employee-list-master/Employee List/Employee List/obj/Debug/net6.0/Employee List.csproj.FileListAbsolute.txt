@@ -1,0 +1,15 @@
+D:\Coding practice\Employee List\Employee List\bin\Debug\net6.0\Employee List.exe
+D:\Coding practice\Employee List\Employee List\bin\Debug\net6.0\Employee List.deps.json
+D:\Coding practice\Employee List\Employee List\bin\Debug\net6.0\Employee List.runtimeconfig.json
+D:\Coding practice\Employee List\Employee List\bin\Debug\net6.0\Employee List.dll
+D:\Coding practice\Employee List\Employee List\bin\Debug\net6.0\Employee List.pdb
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.csproj.AssemblyReference.cache
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.AssemblyInfoInputs.cache
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.AssemblyInfo.cs
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.csproj.CoreCompileInputs.cache
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.dll
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\refint\Employee List.dll
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.pdb
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\Employee List.genruntimeconfig.cache
+D:\Coding practice\Employee List\Employee List\obj\Debug\net6.0\ref\Employee List.dll

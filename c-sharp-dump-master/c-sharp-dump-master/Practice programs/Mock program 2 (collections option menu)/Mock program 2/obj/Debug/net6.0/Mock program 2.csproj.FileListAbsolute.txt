@@ -1,0 +1,15 @@
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.csproj.AssemblyReference.cache
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.AssemblyInfoInputs.cache
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.AssemblyInfo.cs
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.csproj.CoreCompileInputs.cache
+D:\Coding practice\Mock program 2\Mock program 2\bin\Debug\net6.0\Mock program 2.exe
+D:\Coding practice\Mock program 2\Mock program 2\bin\Debug\net6.0\Mock program 2.deps.json
+D:\Coding practice\Mock program 2\Mock program 2\bin\Debug\net6.0\Mock program 2.runtimeconfig.json
+D:\Coding practice\Mock program 2\Mock program 2\bin\Debug\net6.0\Mock program 2.dll
+D:\Coding practice\Mock program 2\Mock program 2\bin\Debug\net6.0\Mock program 2.pdb
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.dll
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\refint\Mock program 2.dll
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.pdb
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\Mock program 2.genruntimeconfig.cache
+D:\Coding practice\Mock program 2\Mock program 2\obj\Debug\net6.0\ref\Mock program 2.dll

@@ -1,0 +1,15 @@
+D:\Coding practice\leap\obj\Debug\net6.0\leap.csproj.AssemblyReference.cache
+D:\Coding practice\leap\obj\Debug\net6.0\leap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\leap\obj\Debug\net6.0\leap.AssemblyInfoInputs.cache
+D:\Coding practice\leap\obj\Debug\net6.0\leap.AssemblyInfo.cs
+D:\Coding practice\leap\obj\Debug\net6.0\leap.csproj.CoreCompileInputs.cache
+D:\Coding practice\leap\bin\Debug\net6.0\leap.exe
+D:\Coding practice\leap\bin\Debug\net6.0\leap.deps.json
+D:\Coding practice\leap\bin\Debug\net6.0\leap.runtimeconfig.json
+D:\Coding practice\leap\bin\Debug\net6.0\leap.dll
+D:\Coding practice\leap\bin\Debug\net6.0\leap.pdb
+D:\Coding practice\leap\obj\Debug\net6.0\leap.dll
+D:\Coding practice\leap\obj\Debug\net6.0\refint\leap.dll
+D:\Coding practice\leap\obj\Debug\net6.0\leap.pdb
+D:\Coding practice\leap\obj\Debug\net6.0\leap.genruntimeconfig.cache
+D:\Coding practice\leap\obj\Debug\net6.0\ref\leap.dll

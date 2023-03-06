@@ -1,0 +1,15 @@
+D:\Coding practice\interestapp\bin\Debug\net6.0\interestapp.exe
+D:\Coding practice\interestapp\bin\Debug\net6.0\interestapp.deps.json
+D:\Coding practice\interestapp\bin\Debug\net6.0\interestapp.runtimeconfig.json
+D:\Coding practice\interestapp\bin\Debug\net6.0\interestapp.dll
+D:\Coding practice\interestapp\bin\Debug\net6.0\interestapp.pdb
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.csproj.AssemblyReference.cache
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.AssemblyInfoInputs.cache
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.AssemblyInfo.cs
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.csproj.CoreCompileInputs.cache
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.dll
+D:\Coding practice\interestapp\obj\Debug\net6.0\refint\interestapp.dll
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.pdb
+D:\Coding practice\interestapp\obj\Debug\net6.0\interestapp.genruntimeconfig.cache
+D:\Coding practice\interestapp\obj\Debug\net6.0\ref\interestapp.dll

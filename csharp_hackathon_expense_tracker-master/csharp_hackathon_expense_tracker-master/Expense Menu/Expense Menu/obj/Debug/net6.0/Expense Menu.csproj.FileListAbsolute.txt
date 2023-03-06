@@ -1,0 +1,15 @@
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\bin\Debug\net6.0\Expense Menu.exe
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\bin\Debug\net6.0\Expense Menu.deps.json
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\bin\Debug\net6.0\Expense Menu.runtimeconfig.json
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\bin\Debug\net6.0\Expense Menu.dll
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\bin\Debug\net6.0\Expense Menu.pdb
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.csproj.AssemblyReference.cache
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.AssemblyInfoInputs.cache
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.AssemblyInfo.cs
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.csproj.CoreCompileInputs.cache
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.dll
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\refint\Expense Menu.dll
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.pdb
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\Expense Menu.genruntimeconfig.cache
+C:\Users\siu-user\Desktop\code clones\csharp_hackathon_expense_tracker\Expense Menu\Expense Menu\obj\Debug\net6.0\ref\Expense Menu.dll

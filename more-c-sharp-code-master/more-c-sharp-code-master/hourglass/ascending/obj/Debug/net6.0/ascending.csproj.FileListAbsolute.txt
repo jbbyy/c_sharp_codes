@@ -1,0 +1,45 @@
+D:\ascending\ascending\obj\Debug\net6.0\ascending.csproj.AssemblyReference.cache
+D:\ascending\ascending\obj\Debug\net6.0\ascending.GeneratedMSBuildEditorConfig.editorconfig
+D:\ascending\ascending\obj\Debug\net6.0\ascending.AssemblyInfoInputs.cache
+D:\ascending\ascending\obj\Debug\net6.0\ascending.AssemblyInfo.cs
+D:\ascending\ascending\obj\Debug\net6.0\ascending.csproj.CoreCompileInputs.cache
+D:\ascending\ascending\bin\Debug\net6.0\ascending.exe
+D:\ascending\ascending\bin\Debug\net6.0\ascending.deps.json
+D:\ascending\ascending\bin\Debug\net6.0\ascending.runtimeconfig.json
+D:\ascending\ascending\bin\Debug\net6.0\ascending.dll
+D:\ascending\ascending\bin\Debug\net6.0\ascending.pdb
+D:\ascending\ascending\obj\Debug\net6.0\ascending.dll
+D:\ascending\ascending\obj\Debug\net6.0\refint\ascending.dll
+D:\ascending\ascending\obj\Debug\net6.0\ascending.pdb
+D:\ascending\ascending\obj\Debug\net6.0\ascending.genruntimeconfig.cache
+D:\ascending\ascending\obj\Debug\net6.0\ref\ascending.dll
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\bin\Debug\net6.0\ascending.exe
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\bin\Debug\net6.0\ascending.deps.json
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\bin\Debug\net6.0\ascending.runtimeconfig.json
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\bin\Debug\net6.0\ascending.dll
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\bin\Debug\net6.0\ascending.pdb
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.csproj.AssemblyReference.cache
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.AssemblyInfoInputs.cache
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.AssemblyInfo.cs
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.csproj.CoreCompileInputs.cache
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.dll
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\refint\ascending.dll
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.pdb
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ascending.genruntimeconfig.cache
+C:\Codes\Extra coding practice (own)\patternNum - Copy\ascending\obj\Debug\net6.0\ref\ascending.dll
+C:\Codes\Extra coding practice (own)\hourglass\ascending\bin\Debug\net6.0\ascending.exe
+C:\Codes\Extra coding practice (own)\hourglass\ascending\bin\Debug\net6.0\ascending.deps.json
+C:\Codes\Extra coding practice (own)\hourglass\ascending\bin\Debug\net6.0\ascending.runtimeconfig.json
+C:\Codes\Extra coding practice (own)\hourglass\ascending\bin\Debug\net6.0\ascending.dll
+C:\Codes\Extra coding practice (own)\hourglass\ascending\bin\Debug\net6.0\ascending.pdb
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.csproj.AssemblyReference.cache
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.AssemblyInfoInputs.cache
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.AssemblyInfo.cs
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.csproj.CoreCompileInputs.cache
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.dll
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\refint\ascending.dll
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.pdb
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ascending.genruntimeconfig.cache
+C:\Codes\Extra coding practice (own)\hourglass\ascending\obj\Debug\net6.0\ref\ascending.dll

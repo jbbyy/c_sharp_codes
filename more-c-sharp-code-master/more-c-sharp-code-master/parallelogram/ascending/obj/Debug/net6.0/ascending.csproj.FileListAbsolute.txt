@@ -1,0 +1,30 @@
+D:\ascending\ascending\obj\Debug\net6.0\ascending.csproj.AssemblyReference.cache
+D:\ascending\ascending\obj\Debug\net6.0\ascending.GeneratedMSBuildEditorConfig.editorconfig
+D:\ascending\ascending\obj\Debug\net6.0\ascending.AssemblyInfoInputs.cache
+D:\ascending\ascending\obj\Debug\net6.0\ascending.AssemblyInfo.cs
+D:\ascending\ascending\obj\Debug\net6.0\ascending.csproj.CoreCompileInputs.cache
+D:\ascending\ascending\bin\Debug\net6.0\ascending.exe
+D:\ascending\ascending\bin\Debug\net6.0\ascending.deps.json
+D:\ascending\ascending\bin\Debug\net6.0\ascending.runtimeconfig.json
+D:\ascending\ascending\bin\Debug\net6.0\ascending.dll
+D:\ascending\ascending\bin\Debug\net6.0\ascending.pdb
+D:\ascending\ascending\obj\Debug\net6.0\ascending.dll
+D:\ascending\ascending\obj\Debug\net6.0\refint\ascending.dll
+D:\ascending\ascending\obj\Debug\net6.0\ascending.pdb
+D:\ascending\ascending\obj\Debug\net6.0\ascending.genruntimeconfig.cache
+D:\ascending\ascending\obj\Debug\net6.0\ref\ascending.dll
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\bin\Debug\net6.0\ascending.exe
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\bin\Debug\net6.0\ascending.deps.json
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\bin\Debug\net6.0\ascending.runtimeconfig.json
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\bin\Debug\net6.0\ascending.dll
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\bin\Debug\net6.0\ascending.pdb
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.csproj.AssemblyReference.cache
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.AssemblyInfoInputs.cache
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.AssemblyInfo.cs
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.csproj.CoreCompileInputs.cache
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.dll
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\refint\ascending.dll
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.pdb
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ascending.genruntimeconfig.cache
+D:\Coding practice\Day 3 (Arrays)\parallelogram\ascending\obj\Debug\net6.0\ref\ascending.dll

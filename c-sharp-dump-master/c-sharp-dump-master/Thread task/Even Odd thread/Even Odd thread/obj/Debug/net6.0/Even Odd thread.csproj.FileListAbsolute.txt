@@ -1,0 +1,15 @@
+D:\Coding practice\Even Odd thread\Even Odd thread\bin\Debug\net6.0\Even Odd thread.exe
+D:\Coding practice\Even Odd thread\Even Odd thread\bin\Debug\net6.0\Even Odd thread.deps.json
+D:\Coding practice\Even Odd thread\Even Odd thread\bin\Debug\net6.0\Even Odd thread.runtimeconfig.json
+D:\Coding practice\Even Odd thread\Even Odd thread\bin\Debug\net6.0\Even Odd thread.dll
+D:\Coding practice\Even Odd thread\Even Odd thread\bin\Debug\net6.0\Even Odd thread.pdb
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.csproj.AssemblyReference.cache
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.AssemblyInfoInputs.cache
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.AssemblyInfo.cs
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.csproj.CoreCompileInputs.cache
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.dll
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\refint\Even Odd thread.dll
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.pdb
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\Even Odd thread.genruntimeconfig.cache
+D:\Coding practice\Even Odd thread\Even Odd thread\obj\Debug\net6.0\ref\Even Odd thread.dll

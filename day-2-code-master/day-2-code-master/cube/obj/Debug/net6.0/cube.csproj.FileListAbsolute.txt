@@ -1,0 +1,15 @@
+D:\Coding practice\cube\bin\Debug\net6.0\cube.exe
+D:\Coding practice\cube\bin\Debug\net6.0\cube.deps.json
+D:\Coding practice\cube\bin\Debug\net6.0\cube.runtimeconfig.json
+D:\Coding practice\cube\bin\Debug\net6.0\cube.dll
+D:\Coding practice\cube\bin\Debug\net6.0\cube.pdb
+D:\Coding practice\cube\obj\Debug\net6.0\cube.csproj.AssemblyReference.cache
+D:\Coding practice\cube\obj\Debug\net6.0\cube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\cube\obj\Debug\net6.0\cube.AssemblyInfoInputs.cache
+D:\Coding practice\cube\obj\Debug\net6.0\cube.AssemblyInfo.cs
+D:\Coding practice\cube\obj\Debug\net6.0\cube.csproj.CoreCompileInputs.cache
+D:\Coding practice\cube\obj\Debug\net6.0\cube.dll
+D:\Coding practice\cube\obj\Debug\net6.0\refint\cube.dll
+D:\Coding practice\cube\obj\Debug\net6.0\cube.pdb
+D:\Coding practice\cube\obj\Debug\net6.0\cube.genruntimeconfig.cache
+D:\Coding practice\cube\obj\Debug\net6.0\ref\cube.dll

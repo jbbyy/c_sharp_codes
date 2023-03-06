@@ -1,0 +1,30 @@
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Coding practice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Coding practice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Coding practice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Coding practice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Coding practice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Coding practice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Coding practice\Collections\data from csv file\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

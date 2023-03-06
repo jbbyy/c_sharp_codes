@@ -1,0 +1,30 @@
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.csproj.AssemblyReference.cache
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.AssemblyInfoInputs.cache
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.AssemblyInfo.cs
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.csproj.CoreCompileInputs.cache
+D:\Coding practice\Day 3\sum\bin\Debug\net6.0\sum.exe
+D:\Coding practice\Day 3\sum\bin\Debug\net6.0\sum.deps.json
+D:\Coding practice\Day 3\sum\bin\Debug\net6.0\sum.runtimeconfig.json
+D:\Coding practice\Day 3\sum\bin\Debug\net6.0\sum.dll
+D:\Coding practice\Day 3\sum\bin\Debug\net6.0\sum.pdb
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.dll
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\refint\sum.dll
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.pdb
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\sum.genruntimeconfig.cache
+D:\Coding practice\Day 3\sum\obj\Debug\net6.0\ref\sum.dll
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.csproj.AssemblyReference.cache
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.AssemblyInfoInputs.cache
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.AssemblyInfo.cs
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.csproj.CoreCompileInputs.cache
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.dll
+D:\Coding practice\Duplicate\obj\Debug\net6.0\refint\sum.dll
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.pdb
+D:\Coding practice\Duplicate\bin\Debug\net6.0\sum.exe
+D:\Coding practice\Duplicate\bin\Debug\net6.0\sum.deps.json
+D:\Coding practice\Duplicate\bin\Debug\net6.0\sum.runtimeconfig.json
+D:\Coding practice\Duplicate\bin\Debug\net6.0\sum.dll
+D:\Coding practice\Duplicate\bin\Debug\net6.0\sum.pdb
+D:\Coding practice\Duplicate\obj\Debug\net6.0\sum.genruntimeconfig.cache
+D:\Coding practice\Duplicate\obj\Debug\net6.0\ref\sum.dll

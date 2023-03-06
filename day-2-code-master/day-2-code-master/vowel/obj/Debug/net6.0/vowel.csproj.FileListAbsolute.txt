@@ -1,0 +1,15 @@
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.csproj.AssemblyReference.cache
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.AssemblyInfoInputs.cache
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.AssemblyInfo.cs
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.csproj.CoreCompileInputs.cache
+D:\Coding practice\vowel\bin\Debug\net6.0\vowel.exe
+D:\Coding practice\vowel\bin\Debug\net6.0\vowel.deps.json
+D:\Coding practice\vowel\bin\Debug\net6.0\vowel.runtimeconfig.json
+D:\Coding practice\vowel\bin\Debug\net6.0\vowel.dll
+D:\Coding practice\vowel\bin\Debug\net6.0\vowel.pdb
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.dll
+D:\Coding practice\vowel\obj\Debug\net6.0\refint\vowel.dll
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.pdb
+D:\Coding practice\vowel\obj\Debug\net6.0\vowel.genruntimeconfig.cache
+D:\Coding practice\vowel\obj\Debug\net6.0\ref\vowel.dll

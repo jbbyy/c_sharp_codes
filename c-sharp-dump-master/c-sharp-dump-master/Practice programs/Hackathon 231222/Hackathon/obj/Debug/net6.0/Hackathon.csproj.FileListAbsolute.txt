@@ -1,0 +1,15 @@
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.csproj.AssemblyReference.cache
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.AssemblyInfoInputs.cache
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.AssemblyInfo.cs
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.csproj.CoreCompileInputs.cache
+D:\Coding practice\Hackathon\Hackathon\bin\Debug\net6.0\Hackathon.exe
+D:\Coding practice\Hackathon\Hackathon\bin\Debug\net6.0\Hackathon.deps.json
+D:\Coding practice\Hackathon\Hackathon\bin\Debug\net6.0\Hackathon.runtimeconfig.json
+D:\Coding practice\Hackathon\Hackathon\bin\Debug\net6.0\Hackathon.dll
+D:\Coding practice\Hackathon\Hackathon\bin\Debug\net6.0\Hackathon.pdb
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.dll
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\refint\Hackathon.dll
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.pdb
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\Hackathon.genruntimeconfig.cache
+D:\Coding practice\Hackathon\Hackathon\obj\Debug\net6.0\ref\Hackathon.dll

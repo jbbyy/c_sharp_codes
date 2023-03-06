@@ -1,0 +1,15 @@
+D:\Coding practice\grades\obj\Debug\net6.0\grades.csproj.AssemblyReference.cache
+D:\Coding practice\grades\obj\Debug\net6.0\grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\grades\obj\Debug\net6.0\grades.AssemblyInfoInputs.cache
+D:\Coding practice\grades\obj\Debug\net6.0\grades.AssemblyInfo.cs
+D:\Coding practice\grades\obj\Debug\net6.0\grades.csproj.CoreCompileInputs.cache
+D:\Coding practice\grades\bin\Debug\net6.0\grades.exe
+D:\Coding practice\grades\bin\Debug\net6.0\grades.deps.json
+D:\Coding practice\grades\bin\Debug\net6.0\grades.runtimeconfig.json
+D:\Coding practice\grades\bin\Debug\net6.0\grades.dll
+D:\Coding practice\grades\bin\Debug\net6.0\grades.pdb
+D:\Coding practice\grades\obj\Debug\net6.0\grades.dll
+D:\Coding practice\grades\obj\Debug\net6.0\refint\grades.dll
+D:\Coding practice\grades\obj\Debug\net6.0\grades.pdb
+D:\Coding practice\grades\obj\Debug\net6.0\grades.genruntimeconfig.cache
+D:\Coding practice\grades\obj\Debug\net6.0\ref\grades.dll

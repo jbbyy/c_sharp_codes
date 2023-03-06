@@ -1,0 +1,15 @@
+D:\Coding practice\10 employee in file\10 employee in file\bin\Debug\net6.0\10 employee in file.exe
+D:\Coding practice\10 employee in file\10 employee in file\bin\Debug\net6.0\10 employee in file.deps.json
+D:\Coding practice\10 employee in file\10 employee in file\bin\Debug\net6.0\10 employee in file.runtimeconfig.json
+D:\Coding practice\10 employee in file\10 employee in file\bin\Debug\net6.0\10 employee in file.dll
+D:\Coding practice\10 employee in file\10 employee in file\bin\Debug\net6.0\10 employee in file.pdb
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.csproj.AssemblyReference.cache
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.AssemblyInfoInputs.cache
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.AssemblyInfo.cs
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.csproj.CoreCompileInputs.cache
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.dll
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\refint\10 employee in file.dll
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.pdb
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\10 employee in file.genruntimeconfig.cache
+D:\Coding practice\10 employee in file\10 employee in file\obj\Debug\net6.0\ref\10 employee in file.dll
